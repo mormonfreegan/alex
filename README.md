@@ -179,21 +179,22 @@ F.hp, s.hp, mp.chop
 ## Stomp spacing (stomps safe vs some 3f jabs):
 * (Start of round) mk.stomp
 
-## Setups after lk stomp:
+### Setups after lk stomp:
 * LK Stomp leaves your +44
 
-## Setups after mk stomp:
+### Setups after mk stomp:
 * MK Stomp leaves your +40
 
-## Setups after hk stomp:
+### Setups after hk stomp:
 * HK Stomp leaves your +39
+* Dash, s.lk, s.mp
 
 ## Setups after ex.stomp:
 * EX Stomp leaves you +43 on hard knockdown
 * Dash, dash, 1-2f delay, f.throw
 * Dash, dash, power bomb
 * Dash, dash, s.mp, s.mp xx lp.chop/ex.chop
-* Dash, s.lk, f.hp (TEST)
+* Dash, s.lk, f.hp 
 
 ## Setups after normal stomps:
 * Dash, s.lp, f.throw
