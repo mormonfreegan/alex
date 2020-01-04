@@ -205,10 +205,6 @@ F.hp, s.hp, mp.chop
 * Lk.elbow (slow stand whiff c.mp, s.mp), c.mp (v-trigger activate, super)
 * Lk.elbow (slow stand whiff c.mp, hp.power bomb), c.mp (v-trigger activate, super)
 
-
-
-
-
 ## Unblockable setup:
 * CH sweep xx v-trigger, whiff s.lk, (charged) v-trigger
 
